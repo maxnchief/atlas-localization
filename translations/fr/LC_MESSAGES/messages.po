@@ -20,12 +20,12 @@ msgstr ""
 
 #: app.py:7
 msgid "Hello, World!"
-msgstr ""
+msgstr "Bonjour, le monde!"
 
 #: app.py:11
 #, python-format
 msgid "You have one message"
 msgid_plural "You have %(num)d messages"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Vous avez un message"
+msgstr[1] "Vous avez %(num)d messages"
 
