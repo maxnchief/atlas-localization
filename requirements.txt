@@ -1,0 +1,6 @@
+# Basic Babel for localization
+Babel>=2.12.1
+
+# Flask with Babel extension (for Flask example)
+Flask>=2.3.0
+Flask-Babel>=3.1.0
